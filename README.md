@@ -1,1 +1,1 @@
-# Alarm-clock
+# AlarmClock
